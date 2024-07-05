@@ -9,19 +9,19 @@ int main(void) {
 }
 
 void whoami(void) {
-	printf("I'm Benjamin, junior dev with a speciality in C/C++.
-		I'm constantly looking to expand my horizons by working
-		on widly different projects.
-
-		Currently I'm working on my portofilio website using 
-		react and tailwindcss.
-
+	printf("I'm Benjamin, junior dev with a speciality in C/C++.\
+		I'm constantly looking to expand my horizons by working\
+		on widly different projects.\
+\
+		Currently I'm working on my portofilio website using\
+		react and tailwindcss.\
+\
 		Feel free to check out my pinned projects.");
 }
 
 void contacts(void) {
-	printf("email: benplante99@gmail.com
-		linkdin: Benjamin Plante
+	printf("email: benplante99@gmail.com\
+		linkdin: Benjamin Plante\
 		discord: walord99");
 }
 ```
