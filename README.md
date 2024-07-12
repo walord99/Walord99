@@ -22,7 +22,7 @@ void whoami(void) {
 void contacts(void) {
 	printf("email: benplante99@gmail.com\
 		linkdin: Benjamin Plante\
-		discord: walord99");
+		discord: walord_");
 }
 ```
 <!--
