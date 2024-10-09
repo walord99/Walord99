@@ -14,14 +14,14 @@ void whoami(void) {
 		on widly different projects.\
 \
 		Currently I'm working on my portofilio website using\
-		react and tailwindcss.\
+		react.\
 \
 		Feel free to check out my pinned projects.");
 }
 
 void contacts(void) {
 	printf("email: benplante99@gmail.com\
-		linkdin: Benjamin Plante");
+		linkdin: www.linkedin.com/in/b-plante");
 }
 ```
 <!--
