@@ -20,8 +20,7 @@ void whoami(void) {
 }
 
 void contacts(void) {
-	printf("email: benplante99@gmail.com\
-		linkdin: www.linkedin.com/in/b-plante");
+	printf("email: benplante99@gmail.com");
 }
 ```
 <!--
